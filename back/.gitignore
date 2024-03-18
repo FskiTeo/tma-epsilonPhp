@@ -1,0 +1,4 @@
+**/users
+**/assets
+../config/env.php
+env.php
